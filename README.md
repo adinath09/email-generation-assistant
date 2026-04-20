@@ -18,7 +18,7 @@ The system uses Large Language Models (LLMs) via Groq API and evaluates performa
 
 ---
 
-## 🧠 Models Used
+## Models Used
 - llama-3.1-8b-instant (Groq)
 - llama-3.1-70b-versatile (Groq)
 
@@ -32,7 +32,7 @@ The system uses:
 
 ---
 
-## 📊 Custom Evaluation Metrics
+## Custom Evaluation Metrics
 
 ### 1. Fact Coverage Score (FCS)
 Measures how many input facts are correctly included in the generated email.
